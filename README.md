@@ -6,6 +6,12 @@
 
 ### Part 1: 
 
+We start this section by importing the following dependencies:
+
+* from pymongo import MongoClient
+
+* from pprint import pprint
+
 This sections purpose is to set up the Database and Jupyter Notbook by importing the establishments.json file and naming the database as "uk_food" as well as the collection as "establishments". 
 
 ### Part 2: 
